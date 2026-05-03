@@ -1,7 +1,7 @@
 {
   "name": "@josephyoung/pi-exit",
   "version": "1.0.2",
-  "description": "Adds /exit command and 'exit' input to quit pi",
+  "description": "Type 'exit' to quit or use the /exit command.",
   "keywords": [
     "pi-package"
   ],
