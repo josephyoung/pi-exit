@@ -6,6 +6,8 @@
     "pi-package"
   ],
   "repository": "https://github.com/josephyoung/pi-exit",
+  "homepage": "https://github.com/josephyoung/pi-exit#readme",
+  "bugs": "https://github.com/josephyoung/pi-exit/issues",
   "pi": {
     "extensions": [
       "./extensions"
