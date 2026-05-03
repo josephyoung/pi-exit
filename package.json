@@ -1,10 +1,14 @@
 {
   "name": "@josephyoung/pi-exit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds /exit command and 'exit' input to quit pi",
-  "keywords": ["pi-package"],
+  "keywords": [
+    "pi-package"
+  ],
   "repository": "https://github.com/josephyoung/pi-exit",
   "pi": {
-    "extensions": ["./extensions"]
+    "extensions": [
+      "./extensions"
+    ]
   }
 }
