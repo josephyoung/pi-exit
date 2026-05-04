@@ -1,9 +1,11 @@
 {
   "name": "@josephyoung/pi-exit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Type 'exit' to quit or use the /exit command.",
   "keywords": [
-    "pi-package"
+    "pi-package",
+    "pi",
+    "extension"
   ],
   "repository": "https://github.com/josephyoung/pi-exit",
   "homepage": "https://github.com/josephyoung/pi-exit#readme",
